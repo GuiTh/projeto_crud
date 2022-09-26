@@ -1,11 +1,14 @@
 {
-    "users":[{
-        "id": 1,
-        "name":"Guilherme Carlos",
-        "email": "guilhermetcarlos@hotmail.com"
-    }, {
-        "id": 2,
-        "name": "Karol Silva",
-        "email": "ka182@outlook.com"
-    }]
+  "users": [
+    {
+      "name": "Guilherme",
+      "email": "guilhermetcarlos@hotmail.com",
+      "id": 1
+    },
+    {
+      "name": "Karol linda",
+      "email": "ka182@outlook.com",
+      "id": 2
+    }
+  ]
 }
