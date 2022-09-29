@@ -10,4 +10,5 @@ export default props =>
     <Route exact path='/' element={<Home/>}/>
     <Route path='/users' element={<UserCrud/>}/> 
     <Route path='*' element={<Navigate to='/'/>}/>
+    
 </Routes>
